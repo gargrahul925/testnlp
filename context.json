@@ -1,0 +1,8 @@
+{
+  "apps" : [{
+    "name"        : "ContextFinder",
+    "script"      : "contextfinder.js",
+    "args"        : ["83"],
+  }]
+}
+

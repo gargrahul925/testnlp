@@ -1,0 +1,9 @@
+{
+  "apps" : [{
+    "name"        : "Owlie-Staging",
+    "script"      : "owlieapis.js",
+    "args"        : ["owlie", "84"],
+    "instances"  : 8,
+    "exec_mode"  : "cluster"
+  }]
+}

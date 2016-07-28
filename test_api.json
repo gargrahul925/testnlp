@@ -1,0 +1,9 @@
+{
+  "apps" : [{
+    "name"        : "Owlie-Test",
+    "script"      : "testowlieapis.js",
+    "args"        : ["owlie_test", "86"],
+    "instances"  : 8,
+    "exec_mode"  : "cluster"
+  }]
+}
